@@ -19,4 +19,4 @@ Neste repositório você encontrará o meu primeiro Phishing. Esse foi um desafi
 
 ### Resutados
 
-![Alt text](![image](https://github.com/GuiCamargoDev/Desafio-do-Phishing/assets/124837745/fa4ca5c7-5214-4a6c-ac76-3da2ce4e248a))
+![Alt text]![image](https://github.com/GuiCamargoDev/Desafio-do-Phishing/assets/124837745/fa4ca5c7-5214-4a6c-ac76-3da2ce4e248a)
